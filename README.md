@@ -48,5 +48,28 @@ Created using **Matplotlib**:
 2. **Bar Chart** – Average petal length per species
 3. **Histogram** – Sepal width distribution
 4. **Scatter Plot** – Sepal length vs Petal length across species
+   
+Results & Observations
 
+Iris-setosa has the smallest petals on average
+
+Iris-virginica has the largest petals
+
+Sepal length varies less across species compared to petal length
+
+Clear separation of species is visible in the scatter plot
+
+Requirements
+
+Python 3.x
+
+pandas
+
+matplotlib
+
+scikit-learn
+
+Author
+
+Eunice 
 ---
